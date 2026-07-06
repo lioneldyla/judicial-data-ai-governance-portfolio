@@ -8,7 +8,7 @@
 
 ## Our Commitment
 
-The Judicial Data & AI Governance Research Portfolio is committed to fostering an open, respectful, inclusive, and collaborative research environment. We welcome contributions, discussions, and collaborations from researchers, practitioners, public institutions, students, and members of the broader scientific community — regardless of nationality, gender, ethnicity, religion, disability, age, or professional background.
+The Judicial Data & AI Governance Research Portfolio is committed to fostering an open, respectful, inclusive, and collaborative research environment. We welcome contributions, discussions, and collaborations from researchers, practitioners, public institutions, students, and members of the broader scientific community - regardless of nationality, gender, ethnicity, religion, disability, age, or professional background.
 
 Our objective is to promote **scientific integrity**, **responsible innovation**, and **constructive dialogue** in the fields of Judicial Data Governance, Digital Justice, Artificial Intelligence Governance, and Digital Public Transformation.
 

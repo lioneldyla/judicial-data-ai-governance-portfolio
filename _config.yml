@@ -1,0 +1,44 @@
+# GitHub Pages Configuration
+# Data Governance for Intelligent Justice Systems Research Portfolio
+
+title: "Judicial Data & AI Governance Research Portfolio"
+description: "Research portfolio on Judicial Data Governance, Digital Justice, Responsible AI and Public Sector Transformation in Africa — DJORO Yoboukoua Lionel Arnaud"
+baseurl: "/judicial-data-ai-governance-portfolio"
+url: "https://lioneldyla.github.io"
+
+author:
+  name: "DJORO Yoboukoua Lionel Arnaud"
+  orcid: "0009-0007-3691-9953"
+  github: "lioneldyla"
+
+# Theme
+theme: minima
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - docs/index.md
+
+# SEO & Social
+twitter:
+  username: ""
+
+social:
+  links:
+    - https://orcid.org/0009-0007-3691-9953
+    - https://github.com/lioneldyla
+
+# Exclusions
+exclude:
+  - .github/
+  - "*.sh"
+  - Gemfile
+  - Gemfile.lock

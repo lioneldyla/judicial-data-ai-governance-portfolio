@@ -1,0 +1,63 @@
+# CITATION.cff — Machine-readable citation metadata
+# Specification: https://citation-file-format.github.io/
+# Generate a DOI via Zenodo after first release.
+
+cff-version: 1.2.0
+
+message: >-
+  If you use materials from this research portfolio,
+  please cite it using the metadata in this file.
+
+title: "Judicial Data & AI Governance Research Portfolio"
+
+version: "1.0"
+
+date-released: "2025-07-06"
+
+authors:
+  - family-names: "DJORO Yoboukoua"
+    given-names: "Lionel Arnaud"
+    orcid: "https://orcid.org/0009-0007-3691-9953"
+    affiliation: "Institut National de Formation Judiciaire (INFJ), Ministère de la Justice et des Droits de l'Homme, République de Côte d'Ivoire"
+    email: "contact@lioneldyla.github.io"
+
+repository-code: "https://github.com/lioneldyla/judicial-data-ai-governance-portfolio"
+
+url: "https://lioneldyla.github.io/judicial-data-ai-governance-portfolio/"
+
+# doi: "" # Leave empty — Zenodo will assign a DOI on first release.
+
+license: "CC-BY-4.0"
+
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+
+keywords:
+  - judicial-data-governance
+  - digital-justice
+  - ai-governance
+  - responsible-ai
+  - public-sector
+  - africa
+  - justice
+  - working-papers
+  - digital-transformation
+  - rule-of-law
+  - open-science
+  - ohada
+  - côte-d-ivoire
+
+abstract: >-
+  This repository constitutes the official open research portfolio of
+  DJORO Yoboukoua Lionel Arnaud, researcher in Judicial Data Governance,
+  Digital Justice, and Responsible AI for the African public sector.
+  It contains working papers, research frameworks, datasets, software,
+  and academic documentation relating to the design and dissemination
+  of evidence-based frameworks for responsible data governance and AI
+  integration in African judicial institutions.
+
+type: dataset
+
+contact:
+  - family-names: "DJORO Yoboukoua"
+    given-names: "Lionel Arnaud"
+    orcid: "https://orcid.org/0009-0007-3691-9953"

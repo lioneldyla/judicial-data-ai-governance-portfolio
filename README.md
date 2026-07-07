@@ -131,54 +131,54 @@ An open-source digital registry platform for African courts, designed for low-re
 
 ```
 judicial-data-ai-governance-portfolio/
-├── README.md                          # Repository homepage — RDI v2.0
-├── LICENSE                            # CC BY 4.0
-├── CITATION.cff                       # Machine-readable citation
-├── CHANGELOG.md                       # Version history
-├── ROADMAP.md                         # Research roadmap
-├── .zenodo.json                       # Zenodo metadata
-├── _config.yml                        # GitHub Pages configuration
-├── .gitignore                         # Git ignore rules
+├── README.md                  # Repository homepage — RDI v2.0
+├── LICENSE                    # CC BY 4.0
+├── CITATION.cff               # Machine-readable citation
+├── CHANGELOG.md               # Version history
+├── ROADMAP.md                 # Research roadmap
+├── .zenodo.json               # Zenodo metadata
+├── _config.yml                # GitHub Pages configuration
+├── .gitignore                 # Git ignore rules
 │
 ├── — Research Governance (Layer 1) —
-├── RESEARCH_MANIFESTO.md              # Research manifesto
-├── RESEARCH_STRATEGY_2026-2035.md     # 10-year research strategy
-├── RESEARCH_AGENDA.md                 # Research agenda
-├── RESEARCH_ETHICS.md                 # Research ethics
-├── PUBLICATION_POLICY.md              # Publication policy
-├── OPEN_SCIENCE_POLICY.md             # Open science policy
-├── DATA_GOVERNANCE_PRINCIPLES.md      # Data governance principles
-├── AI_GOVERNANCE_PRINCIPLES.md        # AI governance principles
-├── LAB_CHARTER.md                     # Lab charter
-├── DOCTORAL_RESEARCH_PLAN.md          # Doctoral research plan
+├── RESEARCH_MANIFESTO.md      # Research manifesto
+├── RESEARCH_STRATEGY_2026-2035.md  # 10-year research strategy
+├── RESEARCH_AGENDA.md         # Research agenda
+├── RESEARCH_ETHICS.md         # Research ethics
+├── PUBLICATION_POLICY.md      # Publication policy
+├── OPEN_SCIENCE_POLICY.md     # Open science policy
+├── DATA_GOVERNANCE_PRINCIPLES.md  # Data governance principles
+├── AI_GOVERNANCE_PRINCIPLES.md    # AI governance principles
+├── LAB_CHARTER.md             # Lab charter
+├── DOCTORAL_RESEARCH_PLAN.md  # Doctoral research plan
 │
 ├── — Community Governance —
-├── CODE_OF_CONDUCT.md                 # Community standards
-├── CONTRIBUTING.md                    # Contribution guidelines
-├── SECURITY.md                        # Security policy
+├── CODE_OF_CONDUCT.md         # Community standards
+├── CONTRIBUTING.md            # Contribution guidelines
+├── SECURITY.md                # Security policy
 │
 ├── — Scientific Production (Layer 2) —
-├── working_papers/                    # Working papers (WP01, WP02, ...)
-├── journal_articles/                  # Peer-reviewed journal articles
-├── conference_papers/                 # Conference proceedings
+├── working_papers/            # Working papers (WP01, WP02, ...)
+├── journal_articles/          # Peer-reviewed journal articles
+├── conference_papers/         # Conference proceedings
 │
 ├── — Scientific Assets (Layer 3) —
-├── frameworks/                        # Research frameworks (JDGF, ...)
-├── datasets/                          # Open datasets
-├── software/                          # Research software
-├── presentations/                     # Slides & posters
-├── bibliography/                      # Reference databases
+├── frameworks/                # Research frameworks (JDGF, ...)
+├── datasets/                  # Open datasets
+├── software/                  # Research software
+├── presentations/             # Slides & posters
+├── bibliography/              # Reference databases
 │
 ├── — Knowledge Management (Layer 4) —
-├── research_notes/                    # Research notes & drafts
-├── docs/                              # GitHub Pages documentation
+├── research_notes/            # Research notes & drafts
+├── docs/                      # GitHub Pages documentation
 │
 ├── — Academic Identity (Layer 5) —
-├── academic_profiles/                 # Academic ecosystem documentation
+├── academic_profiles/         # Academic ecosystem documentation
 │
 └── — Archive & Assets —
-    ├── archive/                       # Archived versions
-    └── assets/                        # Images, logos, media
+├── archive/                   # Archived versions
+└── assets/                    # Images, logos, media
 ```
 
 ---
@@ -189,9 +189,9 @@ judicial-data-ai-governance-portfolio/
 
 | Attribute | Detail |
 |-----------|--------|
-| **Role** | Élève Administrateur des Greffes — Institut National de Formation Judiciaire (INFJ), Côte d'Ivoire |
+| **Role** | Trainee Court Administrator (Élève Administrateur des Greffes) — INFJ, Côte d'Ivoire |
 | **Specialisation** | Judicial Data Governance · Digital Justice · Responsible AI |
-| **Institution** | Ministère de la Justice et des Droits de l'Homme, République de Côte d'Ivoire |
+| **Institution** | Ministry of Justice and Human Rights, Republic of Côte d'Ivoire |
 | **Location** | Abidjan, Côte d'Ivoire |
 | **ORCID** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
 | **GitHub** | [@lioneldyla](https://github.com/lioneldyla) |
@@ -200,7 +200,7 @@ judicial-data-ai-governance-portfolio/
 ### Research Experience
 
 - **15+ years** in judicial administration (since 2011)
-- Former **Chef du Service des Statistiques**, Ministère de la Justice et des Droits de l'Homme (2018–2021)
+- Former **Head of Statistics Unit**, Ministry of Justice and Human Rights (2018–2021)
 - Specialist in **judicial statistics**, diagnostics studies, and judicial data systems
 - Training in **Data Science** — Le Wagon
 - **PhD candidature in preparation** — Data Governance for Intelligent Justice Systems

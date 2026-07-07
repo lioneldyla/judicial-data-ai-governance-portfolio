@@ -9,7 +9,24 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
-- WP01 full manuscript — in preparation
+### Added — WP01 publication infrastructure
+
+- `working_papers/WP01/` supporting files landed: `ABSTRACT.md`,
+  `KEYWORDS.md`, `AUTHORS.md`, `CITATION.md`, `CITATION.cff`, `LICENSE.md`,
+  `VERSION.md`, `CHANGELOG.md`, `REFERENCES.bib` (scaffold — no fabricated
+  entries), `REFERENCES_APA.md` (scaffold), `METADATA.yml`, and `WP01.md`
+  (annotated section outline — the manuscript body remains to be drafted
+  by the author of record).
+- `working_papers/WP01/{figures,tables,supplementary_materials,datasets,appendices,media}/`
+  preserved with `.gitkeep`.
+- `governance/implementations/` directory added with:
+  - `README.md` — index of implementation records
+  - `2026-07-07_WP01-publication-infrastructure.md` — the seven-step
+    deliverable record for this change (Master Spec v3.0 §Deliverables)
+
+### Ongoing
+
+- WP01 manuscript body — to be drafted by the author of record
 - WP02 outline — in preparation
 - JDGF Framework documentation — in development
 - Zenodo DOI integration — pending first release

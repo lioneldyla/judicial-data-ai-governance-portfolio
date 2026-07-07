@@ -1,0 +1,83 @@
+# CITATION.cff for WP01 — Working Paper 01
+# Specification: https://citation-file-format.github.io/
+# This file is scoped to WP01 only; the repository-level citation is at
+# ../../CITATION.cff.
+
+cff-version: 1.2.0
+
+message: >-
+  If you cite this working paper, please use the metadata below.
+  Once a Zenodo DOI is issued, prefer the DOI-based citation.
+
+title: >-
+  Data Governance as Foundational Infrastructure for Intelligent
+  Justice Systems in Africa: Toward Human-Centered, Accountable
+  and AI-Ready Judicial Institutions
+
+abstract: >-
+  This working paper examines data governance as a foundational
+  infrastructure for the digital transformation and AI readiness of
+  judicial institutions in Africa. It argues that without strong,
+  structured, and institutionally embedded data governance frameworks,
+  digital transformation efforts in the justice sector risk producing
+  fragmented systems, unreliable data, weak institutional learning, and
+  unsafe AI adoption. Drawing on data governance theory, digital
+  government research, and institutional analysis, the paper develops a
+  conceptual framework for Judicial Data Governance and outlines its
+  core dimensions, governance requirements, and institutional
+  conditions.
+
+type: report
+
+version: "1.0"
+
+date-released: "2026-07-07"
+
+authors:
+  - family-names: "DJORO Yoboukoua"
+    given-names: "Lionel Arnaud"
+    orcid: "https://orcid.org/0009-0007-3762-9792"
+    affiliation: "Institut National de Formation Judiciaire (INFJ), Ministry of Justice and Human Rights, Republic of Cote d'Ivoire"
+    email: "contact@lioneldyla.github.io"
+
+repository-code: "https://github.com/lioneldyla/judicial-data-ai-governance-portfolio"
+url: "https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/tree/main/working_papers/WP01"
+
+# doi: "" # Will be assigned by Zenodo on first tagged release.
+# preferred-citation:
+#   Fill in once the DOI is issued.
+
+license: "CC-BY-4.0"
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+
+keywords:
+  - judicial-data-governance
+  - digital-justice
+  - artificial-intelligence-governance
+  - responsible-ai
+  - data-governance
+  - intelligent-justice-systems
+  - public-sector-innovation
+  - institutional-data-ecosystems
+  - rule-of-law
+  - africa
+  - sub-saharan-africa
+  - cote-divoire
+  - open-science
+  - working-paper
+
+identifiers:
+  - type: other
+    value: "WP01"
+    description: "Working paper number in the DGIJS series"
+
+references:
+  - type: report
+    title: "Judicial Data & AI Governance Research Portfolio"
+    authors:
+      - family-names: "DJORO Yoboukoua"
+        given-names: "Lionel Arnaud"
+        orcid: "https://orcid.org/0009-0007-3762-9792"
+    version: "2.0"
+    url: "https://github.com/lioneldyla/judicial-data-ai-governance-portfolio"
+    year: 2026

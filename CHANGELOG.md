@@ -16,7 +16,29 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
-## [1.0.0] — 2025-07-06
+## [2.0.0] — 2026-07-07
+
+### Added — RDI v2.0 Full Deployment
+
+#### Research Content
+- Added `working_papers/WP02/` — placeholder structure for WP02 (Responsible AI in African Judiciaries)
+- Added `ROADMAP.md` — medium-term scientific production roadmap (2026–2027)
+- Added `academic_profiles/README.md` — academic ecosystem documentation (updated to English)
+
+#### Repository Infrastructure
+- Updated `CITATION.cff` to version 2.0 with corrected ORCID and English affiliation
+- Updated `README.md` — full English version with RDI v2.0 structure
+- Added READMEs for all portfolio folders: `journal_articles/`, `conference_papers/`, `datasets/`, `software/`, `presentations/`, `bibliography/`, `research_notes/`, `archive/`, `assets/`
+
+#### Academic Integration
+- ORCID profile linked: [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792)
+- Zenodo integration planned for first release (DOI pending)
+- SSRN profile registration planned
+- GitHub Pages deployment configured
+
+---
+
+## [1.0.0] — 2026-07-06
 
 ### Added — Initial Repository
 
@@ -26,7 +48,7 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Added `CITATION.cff` — machine-readable citation metadata (version 1.2.0 spec)
 - Added `README.md` — professional research portfolio homepage
 - Added `CHANGELOG.md` — this file
-- Added `ROADMAP.md` — 2026–2027 research roadmap
+- Added `ROADMAP.md` — 2026-2027 research roadmap
 - Added `CODE_OF_CONDUCT.md` — Contributor Covenant v2.1
 - Added `CONTRIBUTING.md` — contribution and collaboration guidelines
 - Added `SECURITY.md` — responsible disclosure policy
@@ -42,21 +64,11 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Added `academic_profiles/README.md` — academic ecosystem documentation
 
 #### Academic Integration
-- ORCID profile linked: [0009-0007-3691-9953](https://orcid.org/0009-0007-3691-9953)
+- ORCID profile linked: [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792)
 - Zenodo integration planned for first release (DOI pending)
 - SSRN profile registration planned
 - GitHub Pages deployment configured
 
 ---
 
-## Versioning Convention
-
-| Increment | Trigger |
-|-----------|----------|
-| **MAJOR** (X.0.0) | New research phase or substantial framework revision |
-| **MINOR** (1.X.0) | New working paper, journal article, or framework component |
-| **PATCH** (1.0.X) | Minor corrections, metadata updates, typo fixes |
-
----
-
-*Maintained by DJORO Yoboukoua Lionel Arnaud · ORCID: [0009-0007-3691-9953](https://orcid.org/0009-0007-3691-9953)*
+*Maintained by DJORO Yoboukoua Lionel Arnaud — contact@lioneldyla.github.io*

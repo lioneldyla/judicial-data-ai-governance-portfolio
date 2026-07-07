@@ -9,6 +9,31 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Added — v4.0 Lab Scientific Identity
+
+Following the *Final Implementation Specification v4.0* (Repository
+Completion Phase). Consolidates the scientific identity of the *Judicial
+Data & AI Governance Lab* — no new governance policies; synthesis of
+existing authoritative documents into laboratory-scoped views.
+
+- `lab/README.md` — public homepage of the laboratory
+- `lab/RESEARCH_ARCHITECTURE.md` — central navigation map with programme diagram
+- `lab/RESEARCH_QUESTIONS.md` — RQ0 + Tracks 1–5 with output-to-question round-trip index
+- `lab/RESEARCH_THEMES.md` — 8 permanent themes T1–T8 with theme × pillar and output-to-theme matrices
+- `lab/PROJECTS.md` — 5 projects P01–P05 (WP01, JDGF, SPJEJ, CS GREFFE OS, Data Agents) with project × RQ × theme matrix
+- `lab/PUBLICATIONS.md` — publications map WP01–WP04, JA01–JA04, CP01–CP03, cross-relationship graph
+- `lab/ROADMAP.md` — scientific milestones 2026–2035 (separate from software timelines)
+- `lab/COLLABORATION.md` — collaboration principles, contribution process, target academic partners (explicitly labelled as targets, not confirmed partners)
+- `case_studies/README.md` — case-study index and editorial policy
+- `case_studies/CS01_SPJEJ/README.md` — SPJEJ pilot on Côte d'Ivoire
+- `case_studies/CS02_SIS_MJDH/README.md` — SIS-MJDH JDGF validation deep case
+- `case_studies/CS03_CS_GREFFE_OS/README.md` — CS GREFFE OS implementation case
+- `case_studies/CS04_Judicial_Statistics_Programme/README.md` — Judicial Statistics Programme 2019 & 2023
+- `case_studies/CS05_Court_Digital_Transformation/README.md` — comparative digital-transformation analysis
+- `governance/implementations/2026-07-07_v4.0-lab-completion.md` — six-step deliverable record
+
+### Ongoing
+
 - WP01 full manuscript — in preparation
 - WP02 outline — in preparation
 - JDGF Framework documentation — in development

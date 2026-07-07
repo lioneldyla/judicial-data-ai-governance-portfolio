@@ -11,10 +11,11 @@
 Researcher in Judicial Data Governance and Artificial Intelligence for Justice Systems
 
 | Attribute | Details |
-|-----------|---------|
-| **Role** | Élève Administrateur des Greffes — INFJ, Côte d'Ivoire |
+|-----------|----------|
+| **Role** | Trainee Court Administrator (Élève Administrateur des Greffes) — INFJ, Côte d'Ivoire |
 | **Specialisation** | Judicial Data Governance · Digital Justice · Responsible AI |
-| **Institution** | Ministère de la Justice et des Droits de l'Homme, République de Côte d'Ivoire |
+| **Institution** | Ministry of Justice and Human Rights, Republic of Côte d'Ivoire |
+| **Training School** | Institut National de Formation Judiciaire (INFJ) |
 | **Location** | Abidjan, Côte d'Ivoire |
 
 ---
@@ -32,7 +33,7 @@ A long-term interdisciplinary research programme dedicated to strengthening just
 ### ORCID
 
 | Field | Details |
-|-------|---------|
+|-------|----------|
 | **Identifier** | 0009-0007-3762-9792 |
 | **URL** | [orcid.org/0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
 | **Purpose** | Permanent researcher identifier connecting publications, datasets, software, affiliations |
@@ -41,69 +42,68 @@ A long-term interdisciplinary research programme dedicated to strengthening just
 ### GitHub
 
 | Field | Details |
-|-------|---------|
+|-------|----------|
 | **Profile** | [@lioneldyla](https://github.com/lioneldyla) |
 | **Repository** | [judicial-data-ai-governance-portfolio](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio) |
 | **Purpose** | Open research, software, documentation, version control, reproducibility |
 | **Status** | Active |
 
-### Zenodo
-
-| Field | Details |
-|-------|---------|
-| **Purpose** | DOI assignment, long-term preservation, FAIR dissemination, research archiving |
-| **Status** | Pending — activation planned on first release |
-
 ### SSRN
 
 | Field | Details |
-|-------|---------|
-| **Purpose** | Working papers, preprints, early dissemination, scholarly communication |
-| **Status** | Pending |
+|-------|----------|
+| **Profile** | Pending registration |
+| **Purpose** | Open access to working papers and preprints in law and social sciences |
+| **Status** | Planned |
 
-### OpenAIRE
+### Zenodo
 
 | Field | Details |
-|-------|---------|
-| **Purpose** | Open science interoperability, research visibility, metadata aggregation |
-| **Status** | Pending |
+|-------|----------|
+| **Profile** | Pending registration |
+| **Purpose** | DOI assignment for datasets, software, and research outputs |
+| **Status** | Planned — will be linked upon first release |
+
+### Google Scholar
+
+| Field | Details |
+|-------|----------|
+| **Profile** | Pending registration |
+| **Purpose** | Academic citations, h-index, and publication tracking |
+| **Status** | Planned |
 
 ---
 
-## Future Academic Profiles
+## Research Interests
 
-- Google Scholar
-- ResearchGate
-- Scopus Author Profile (when applicable)
-- Web of Science Researcher Profile (when applicable)
-
----
-
-## Publication Workflow
-
-```
-Research Draft → GitHub Repository → Zenodo DOI → ORCID → SSRN → Journal Submission → Conference Presentation
-```
+- **Judicial Data Governance** — frameworks and institutional architecture for data management in judicial systems
+- **Artificial Intelligence for Justice** — responsible AI deployment, algorithmic accountability, and judicial decision support
+- **Digital Transformation of Justice Systems** — e-justice, court modernisation, and legal technology in Sub-Saharan Africa
+- **OHADA Law and Data** — data governance dimensions of the Uniform Acts and regional harmonisation
+- **Open Science in Law** — reproducible research, open data, and knowledge commons in legal research
 
 ---
 
-## Citation Policy
+## Education & Institutional Affiliation
 
-All research outputs include:
-- ORCID identifier
-- Zenodo DOI (when available)
-- Repository citation
-- Version number
-- Publication date
-
----
-
-## Long-Term Goal
-
-To establish a coherent, internationally recognized scholarly identity that supports impactful research on Judicial Data Governance and contributes to the digital transformation of justice systems in Africa.
+| Level | Details |
+|-------|----------|
+| **Current Training** | Élève Administrateur des Greffes — INFJ (2025–2027) |
+| **Prior Role** | Head of Statistics Unit — Ministry of Justice and Human Rights (2018–2021) |
+| **Institution** | Ministry of Justice and Human Rights, Republic of Côte d'Ivoire |
+| **Research Level** | Pre-doctoral (preparing PhD applications in AI Governance / Data Governance) |
 
 ---
 
-*One researcher. One identity. One integrated research ecosystem.*
+## Contact
 
-*[DJORO Yoboukoua Lionel Arnaud](https://orcid.org/0009-0007-3762-9792) — Version 2.0 — 2026*
+| Channel | Details |
+|---------|----------|
+| **Email** | contact@lioneldyla.github.io |
+| **GitHub** | [github.com/lioneldyla](https://github.com/lioneldyla) |
+| **ORCID** | [orcid.org/0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
+
+---
+
+*This document is part of the Judicial Data & AI Governance Research Portfolio — maintained under RDI v2.0.*
+*License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*

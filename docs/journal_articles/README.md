@@ -30,7 +30,7 @@ All articles submitted from this programme must:
 2. Cite the programme's CITATION.cff-compliant citation metadata
 3. Adhere to the [Publication Policy](../../PUBLICATION_POLICY.md)
 4. Follow [Research Ethics](../../RESEARCH_ETHICS.md) guidelines
-5. Acknowledge the ORCID profile: [0009-0007-3691-9953](https://orcid.org/0009-0007-3691-9953)
+5. Acknowledge the ORCID profile: [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792)
 
 ---
 

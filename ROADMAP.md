@@ -144,4 +144,4 @@ This document presents the medium-term scientific production roadmap (2026–202
 ---
 
 *Last updated: July 2025 · Version 1.0*
-*Maintained by DJORO Yoboukoua Lionel Arnaud · [ORCID: 0009-0007-3691-9953](https://orcid.org/0009-0007-3691-9953)*
+*Maintained by DJORO Yoboukoua Lionel Arnaud · [ORCID: 0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792)*

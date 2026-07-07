@@ -24,6 +24,40 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
   - `2026-07-07_WP01-publication-infrastructure.md` — the seven-step
     deliverable record for this change (Master Spec v3.0 §Deliverables)
 
+### Added — WP01 publication-readiness pass
+
+- `working_papers/WP01/PUBLICATION_PACKAGE.md` — manifest of the complete
+  publication package with consistency rules across identity / citation /
+  governance / bibliography / manuscript / package-management layers.
+- `working_papers/WP01/RELEASE_CHECKLIST.md` — ordered pre-release checks
+  and release procedure for Git tag + Zenodo capture + ORCID sync + SSRN.
+- `working_papers/WP01/SUBMISSION_TARGETS.md` — Zenodo, SSRN, and
+  peer-reviewed journal requirements captured per venue.
+- `governance/implementations/2026-07-07_WP01-publication-readiness.md` —
+  the six-step deliverable record following the Phase-3 spec template.
+
+### Changed — Version scheme
+
+- `working_papers/WP01/VERSION.md`: split single version into **package**
+  and **manuscript** version tracks. `CITATION.cff` retains the package
+  version to satisfy CFF schema; manuscript state is externally-visible via
+  release tag names (`wp01-v0.1-package`, `wp01-v0.5-draft`, etc.).
+
+### Fixed — ORCID correctness across the repository
+
+Wrong ORCID `0009-0007-3691-9953` corrected to `0009-0007-3762-9792` in
+six files. Because `_config.yml` feeds `jekyll-seo-tag`, this fix
+propagates the correct author identity to every deployed GitHub Pages page.
+
+- `_config.yml` (2 occurrences — `author.orcid` and `social.links`)
+- `docs/working_papers/WP01/README.md` — full page rewritten as a
+  GH-Pages landing that matches the canonical WP01 identity and links to
+  the source directory (no content duplication).
+- `docs/frameworks/JDGF/README.md` — targeted ORCID string fix only.
+- `docs/journal_articles/README.md` — targeted ORCID string fix only.
+- `docs/academic_profiles/PROFILES.md` — targeted ORCID string fix only.
+- `ROADMAP.md` — targeted ORCID string fix in footer only.
+
 ### Ongoing
 
 - WP01 manuscript body — to be drafted by the author of record

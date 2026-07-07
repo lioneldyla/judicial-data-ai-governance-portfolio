@@ -1,31 +1,34 @@
 # CITATION.cff — Machine-readable citation metadata
 # Specification: https://citation-file-format.github.io/
-# Generate a DOI via Zenodo after first release.
+# Research Digital Infrastructure (RDI) v2.0 — 2026-07-07
 
 cff-version: 1.2.0
 
 message: >-
   If you use materials from this research portfolio,
   please cite it using the metadata in this file.
+  After Zenodo publication, use the assigned DOI preferentially.
 
 title: "Judicial Data & AI Governance Research Portfolio"
 
-version: "1.0"
+type: software
 
-date-released: "2025-07-06"
+version: "2.0"
+
+date-released: "2026-07-07"
 
 authors:
   - family-names: "DJORO Yoboukoua"
     given-names: "Lionel Arnaud"
-    orcid: "https://orcid.org/0009-0007-3691-9953"
-    affiliation: "Institut National de Formation Judiciaire (INFJ), Ministère de la Justice et des Droits de l'Homme, République de Côte d'Ivoire"
+    orcid: "https://orcid.org/0009-0007-3762-9792"
+    affiliation: "Institut National de Formation Judiciaire (INFJ), Minist\u00e8re de la Justice et des Droits de l'Homme, R\u00e9publique de C\u00f4te d'Ivoire"
     email: "contact@lioneldyla.github.io"
 
 repository-code: "https://github.com/lioneldyla/judicial-data-ai-governance-portfolio"
 
 url: "https://lioneldyla.github.io/judicial-data-ai-governance-portfolio/"
 
-# doi: "" # Leave empty — Zenodo will assign a DOI on first release.
+# doi: "" # Will be assigned by Zenodo on first release.
 
 license: "CC-BY-4.0"
 
@@ -44,20 +47,33 @@ keywords:
   - rule-of-law
   - open-science
   - ohada
-  - côte-d-ivoire
+  - cote-d-ivoire
+  - research-digital-infrastructure
+  - intelligent-justice-systems
+  - data-governance
 
 abstract: >-
-  This repository constitutes the official open research portfolio of
-  DJORO Yoboukoua Lionel Arnaud, researcher in Judicial Data Governance,
-  Digital Justice, and Responsible AI for the African public sector.
-  It contains working papers, research frameworks, datasets, software,
-  and academic documentation relating to the design and dissemination
-  of evidence-based frameworks for responsible data governance and AI
-  integration in African judicial institutions.
-
-type: dataset
+  This repository is the official Research Digital Infrastructure (RDI) of
+  DJORO Yoboukoua Lionel Arnaud, supporting the complete scientific lifecycle
+  of the Data Governance for Intelligent Justice Systems research programme.
+  It contains working papers, research frameworks, datasets, software, governance
+  documents, and academic documentation relating to the design and dissemination
+  of evidence-based frameworks for responsible data governance and AI integration
+  in African judicial institutions. The infrastructure adheres to FAIR principles
+  and is designed for long-term integration with ORCID, Zenodo, SSRN, and OpenAIRE.
 
 contact:
   - family-names: "DJORO Yoboukoua"
     given-names: "Lionel Arnaud"
-    orcid: "https://orcid.org/0009-0007-3691-9953"
+    orcid: "https://orcid.org/0009-0007-3762-9792"
+
+preferred-citation:
+  type: report
+  title: "Judicial Data & AI Governance Research Portfolio"
+  authors:
+    - family-names: "DJORO Yoboukoua"
+      given-names: "Lionel Arnaud"
+      orcid: "https://orcid.org/0009-0007-3762-9792"
+  year: 2026
+  url: "https://github.com/lioneldyla/judicial-data-ai-governance-portfolio"
+  notes: "DOI will be added automatically after Zenodo publication."

@@ -1,26 +1,34 @@
 {
   "title": "Judicial Data & AI Governance Research Portfolio",
-  "description": "Research portfolio on Judicial Data Governance, Digital Justice, Responsible AI and Public Sector Transformation in Africa. Maintained by DJORO Yoboukoua Lionel Arnaud as part of the Data Governance for Intelligent Justice Systems research programme.",
+  "description": "Official Research Digital Infrastructure (RDI) supporting the Data Governance for Intelligent Justice Systems research programme. Maintained by DJORO Yoboukoua Lionel Arnaud. Contains working papers, research frameworks, governance documents, datasets, software, and academic documentation on Judicial Data Governance, Digital Justice, and Responsible AI for African justice systems.",
+  "version": "2.0",
   "creators": [
     {
       "name": "DJORO Yoboukoua Lionel Arnaud",
-      "orcid": "0009-0007-3691-9953",
-      "affiliation": "Institut National de Formation Judiciaire (INFJ), Côte d'Ivoire"
+      "orcid": "0009-0007-3762-9792",
+      "affiliation": "Institut National de Formation Judiciaire (INFJ), Minist\u00e8re de la Justice et des Droits de l'Homme, R\u00e9publique de C\u00f4te d'Ivoire"
     }
   ],
   "keywords": [
     "judicial data governance",
     "digital justice",
     "responsible AI",
+    "AI governance",
     "African judiciaries",
     "court administration",
     "FAIR data",
     "open science",
     "legal technology",
     "AI regulation",
-    "Côte d'Ivoire",
+    "data governance",
+    "intelligent justice systems",
+    "public sector innovation",
+    "rule of law",
+    "OHADA",
+    "C\u00f4te d'Ivoire",
     "ECOWAS",
-    "African Union"
+    "African Union",
+    "research digital infrastructure"
   ],
   "license": "CC-BY-4.0",
   "upload_type": "publication",
@@ -28,6 +36,8 @@
   "access_right": "open",
   "language": "eng",
   "communities": [
-    {"identifier": "zenodo"}
+    {
+      "identifier": "zenodo"
+    }
   ]
 }

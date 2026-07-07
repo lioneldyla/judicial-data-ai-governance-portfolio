@@ -1,0 +1,114 @@
+# WP01 — Machine-readable metadata
+# Used by OpenAIRE and any tooling that ingests YAML metadata for research
+# outputs. When embedded as Jekyll frontmatter, wrap in --- delimiters at
+# use site. Do not add document separators here — this is a standalone YAML
+# document.
+#
+# Source of truth for versioning: VERSION.md.
+# Source of truth for citation:   CITATION.cff.
+# This file mirrors both — keep in sync on any bump.
+
+id: WP01
+type: working-paper
+reference: WP01
+programme: "Data Governance for Intelligent Justice Systems"
+lab: "Judicial Data & AI Governance Lab (JDAG Lab)"
+
+title: >-
+  Data Governance as Foundational Infrastructure for Intelligent Justice
+  Systems in Africa: Toward Human-Centered, Accountable and AI-Ready
+  Judicial Institutions
+
+subtitle: >-
+  Toward Human-Centered, Accountable and AI-Ready Judicial Institutions
+
+status: in-preparation           # options: planned | in-preparation | draft | preprint | published | superseded
+version: "1.0"
+date: "2026-07-07"
+year: 2026
+
+authors:
+  - family-names: "DJORO Yoboukoua"
+    given-names: "Lionel Arnaud"
+    orcid: "0009-0007-3762-9792"
+    affiliation: "Institut National de Formation Judiciaire (INFJ), Ministry of Justice and Human Rights, Republic of Cote d'Ivoire"
+    email: "contact@lioneldyla.github.io"
+    correspondence: true
+
+license: "CC-BY-4.0"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+
+keywords:
+  - judicial-data-governance
+  - digital-justice
+  - artificial-intelligence-governance
+  - responsible-ai
+  - data-governance
+  - intelligent-justice-systems
+  - public-sector-innovation
+  - institutional-data-ecosystems
+  - rule-of-law
+  - africa
+  - sub-saharan-africa
+  - cote-divoire
+  - open-science
+
+geographic_scope:
+  - Africa
+  - Sub-Saharan Africa
+  - Côte d'Ivoire
+  - OHADA
+
+# Identifiers assigned or pending
+identifiers:
+  github_path: working_papers/WP01
+  github_url: https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/tree/main/working_papers/WP01
+  zenodo_concept_doi: null      # will be set on first Zenodo release
+  zenodo_version_doi: null      # will be set on each tagged release
+  ssrn_paper_number: null       # will be set on SSRN submission
+  orcid_work_id: null
+
+# Publication workflow milestones
+workflow:
+  drafted:            false
+  internal_review:    false
+  version_of_record:  false
+  github_release:     false
+  zenodo_deposited:   false
+  orcid_synced:       false
+  ssrn_submitted:     false
+  journal_submitted:  false
+
+# Cross-references inside the Portfolio
+related:
+  frameworks:
+    - JDGF
+  research_questions:
+    - RQ1.1
+    - RQ1.2
+    - RQ1.3
+  research_themes:
+    - Judicial Data Governance
+    - AI Governance
+    - Intelligent Justice Systems
+  research_manifesto: ../../RESEARCH_MANIFESTO.md
+  research_strategy:  ../../RESEARCH_STRATEGY_2026-2035.md
+  publication_policy: ../../PUBLICATION_POLICY.md
+  open_science:       ../../OPEN_SCIENCE_POLICY.md
+  ethics:             ../../RESEARCH_ETHICS.md
+
+# Companion files
+files:
+  readme:      README.md
+  abstract:    ABSTRACT.md
+  keywords:    KEYWORDS.md
+  authors:     AUTHORS.md
+  citation:    CITATION.md
+  citation_cff: CITATION.cff
+  license:     LICENSE.md
+  version:     VERSION.md
+  changelog:   CHANGELOG.md
+  references_bib: REFERENCES.bib
+  references_apa: REFERENCES_APA.md
+  manuscript:  WP01.md
+

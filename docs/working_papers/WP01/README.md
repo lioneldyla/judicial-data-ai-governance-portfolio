@@ -1,67 +1,101 @@
-# Working Paper WP01 — Judicial Data Governance in West Africa
+---
+layout: default
+title: Working Paper WP01
+description: >-
+  Data Governance as Foundational Infrastructure for Intelligent Justice
+  Systems in Africa — a working paper in the Data Governance for
+  Intelligent Justice Systems series.
+author: DJORO Yoboukoua Lionel Arnaud
+orcid: 0009-0007-3762-9792
+---
 
-> **Series:** Data Governance for Intelligent Justice Systems — Working Papers  
-> **Category:** Working Paper | **Identifier:** WP01 | **Version:** 1.0.0  
-> **Author:** DJORO Yoboukoua Lionel Arnaud | **ORCID:** [0009-0007-3691-9953](https://orcid.org/0009-0007-3691-9953)  
-> **Status:** In preparation | **Target Venue:** African Law & Society Review / SSRN preprint  
-> **Last Updated:** July 2026
+# Working Paper WP01
+
+**Data Governance as Foundational Infrastructure for Intelligent Justice
+Systems in Africa: Toward Human-Centered, Accountable and AI-Ready
+Judicial Institutions**
+
+> This is the **GitHub Pages landing page** for WP01. The canonical
+> publication package lives in the repository at
+> [`working_papers/WP01/`](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/tree/main/working_papers/WP01).
+> Do not duplicate the canonical content here — link to it.
 
 ---
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Reference | WP01 |
+| Series | *Data Governance for Intelligent Justice Systems* — Working Papers |
+| Author | DJORO Yoboukoua Lionel Arnaud |
+| ORCID | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
+| Affiliation | Institut National de Formation Judiciaire (INFJ), Ministry of Justice and Human Rights, Republic of Côte d'Ivoire |
+| Package version | 1.0 |
+| Manuscript version | 0.0 — in preparation |
+| Status | In publication pipeline |
+| License | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| DOI | Pending Zenodo release |
+| SSRN | Pending submission |
 
 ## Abstract
 
-*Forthcoming.* This working paper examines the current state of judicial data governance in West African court systems, with a focus on Côte d'Ivoire, Senegal, and Benin. It identifies structural gaps in judicial data collection, management, and dissemination practices, and proposes a governance maturity model calibrated to the resource realities and legal traditions of ECOWAS-member judiciaries. The paper contributes to a nascent literature at the intersection of judicial administration reform and data governance in the Global South.
+This working paper examines data governance as a foundational
+infrastructure for the digital transformation and AI readiness of judicial
+institutions in Africa. It argues that without strong, structured, and
+institutionally embedded data governance frameworks, digital transformation
+efforts in the justice sector risk producing fragmented systems, unreliable
+data, weak institutional learning, and unsafe AI adoption. Drawing on data
+governance theory, digital government research, and institutional analysis,
+the paper develops a conceptual framework for Judicial Data Governance and
+outlines its core dimensions, governance requirements, and institutional
+conditions.
+
+*(Verbatim from the canonical [`ABSTRACT.md`](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/blob/main/working_papers/WP01/ABSTRACT.md).)*
+
+## Keywords
+
+Judicial Data Governance · Digital Justice · Artificial Intelligence
+Governance · Data Governance · Intelligent Justice Systems · Responsible AI
+· Public Sector Innovation · Institutional Data Ecosystems · Rule of Law
+· Africa
+
+## Publication package
+
+The canonical package lives at
+[`working_papers/WP01/`](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/tree/main/working_papers/WP01)
+and contains:
+
+| Layer | Files |
+|---|---|
+| Identity | `README.md`, `ABSTRACT.md`, `KEYWORDS.md`, `AUTHORS.md` |
+| Citation | `CITATION.md`, `CITATION.cff` |
+| Governance | `LICENSE.md`, `VERSION.md`, `CHANGELOG.md`, `METADATA.yml` |
+| Bibliography | `REFERENCES.bib`, `REFERENCES_APA.md` |
+| Manuscript | `WP01.md` (annotated outline; body to be drafted) |
+| Package manifest | `PUBLICATION_PACKAGE.md`, `RELEASE_CHECKLIST.md`, `SUBMISSION_TARGETS.md` |
+
+A full description of each file's role is at
+[`PUBLICATION_PACKAGE.md`](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/blob/main/working_papers/WP01/PUBLICATION_PACKAGE.md).
+
+## How to cite
+
+Preferred citation formats (BibTeX, APA, Chicago, MLA, Vancouver) are at
+[`CITATION.md`](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/blob/main/working_papers/WP01/CITATION.md).
+Machine-readable citation metadata is at
+[`CITATION.cff`](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/blob/main/working_papers/WP01/CITATION.cff)
+(Citation File Format v1.2.0).
+
+## Related resources
+
+- [Judicial Data Governance Framework (JDGF)](../frameworks/JDGF/) — the flagship methodological framework that WP01's argument grounds empirically
+- [Research Portfolio](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio)
+- [Research Manifesto](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/blob/main/RESEARCH_MANIFESTO.md)
+- [Research Agenda](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/blob/main/RESEARCH_AGENDA.md)
+- [Research Strategy 2026–2035](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/blob/main/RESEARCH_STRATEGY_2026-2035.md)
 
 ---
 
-## Research Questions
-
-1. What are the prevailing data governance practices in West African court administrations?
-2. What structural, legal, and institutional factors explain observed data governance gaps?
-3. How can a context-sensitive governance maturity model be operationalised for resource-constrained judiciaries?
-
----
-
-## Methodology
-
-- Comparative case study approach (Côte d'Ivoire, Senegal, Benin)
-- Document analysis of judicial statistics reports, legal frameworks, and institutional mandates
-- Semi-structured expert interviews with judicial administrators and IT officers
-- Synthesis against international standards (OECD, AU Data Policy Framework, FAIR principles)
-
----
-
-## Document Index
-
-| File | Description | Status |
-|---|---|---|
-| `WP01_DRAFT.md` | Working paper draft | *In preparation* |
-| `WP01_BIBLIOGRAPHY.md` | Annotated bibliography | *In preparation* |
-| `WP01_DATA_SOURCES.md` | Data sources and access log | *In preparation* |
-
----
-
-## Planned Dissemination
-
-- [ ] SSRN preprint deposit
-- [ ] Zenodo archiving with DOI
-- [ ] Conference presentation (TBD — 2027)
-- [ ] Peer-reviewed journal submission (target: 2027)
-
----
-
-## Citation (Pre-Publication)
-
-```
-DJORO Yoboukoua Lionel Arnaud (2026). [WP01 Title — forthcoming].
-Working Paper WP01, Data Governance for Intelligent Justice Systems Series.
-GitHub: https://github.com/lioneldyla/judicial-data-ai-governance-portfolio
-```
-
----
-
-## Related Resources
-
-- [JDGF Framework](../frameworks/JDGF/)
-- [Research Agenda](../../RESEARCH_AGENDA.md)
-- [Doctoral Research Plan](../../DOCTORAL_RESEARCH_PLAN.md)
+*This page is the public GitHub Pages entry for WP01. Content authority
+lives in the canonical package. Report content issues via
+[GitHub Issues](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/issues).*

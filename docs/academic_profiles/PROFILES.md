@@ -21,7 +21,7 @@
 
 | Platform | Identifier / URL | Status |
 |---|---|---|
-| **ORCID** | [0009-0007-3691-9953](https://orcid.org/0009-0007-3691-9953) | ✅ Active |
+| **ORCID** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) | ✅ Active |
 | **GitHub** | [lioneldyla](https://github.com/lioneldyla) | ✅ Active |
 | **Zenodo** | *Pending — deposit planned with first preprint* | ⏳ Pending |
 | **SSRN** | *Pending — account to be created* | ⏳ Pending |

@@ -4,7 +4,6 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3762--9792-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3762-9792)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?logo=creative-commons)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://doi.org/10.5281/zenodo.PENDING)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://lioneldyla.github.io/judicial-data-ai-governance-portfolio/)
 [![Open Science](https://img.shields.io/badge/Open%20Science-FAIR-brightgreen)](https://www.go-fair.org/)
 [![RDI](https://img.shields.io/badge/Infrastructure-RDI%20Level%204-blueviolet)](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio)

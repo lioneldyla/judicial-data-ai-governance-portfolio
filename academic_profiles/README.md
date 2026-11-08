@@ -28,16 +28,18 @@ A long-term interdisciplinary research programme dedicated to strengthening just
 
 ---
 
+ORCID ownership remains unverified because historical files contain conflicting identifiers. See [reconciliation notes](../docs/academic_profiles/PROFILES.md). No identifier should be reused for a deposit until verified.
+
 ## Research Profiles
 
 ### ORCID
 
 | Field | Details |
 |-------|----------|
-| **Identifier** | 0009-0007-3762-9792 |
-| **URL** | [orcid.org/0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
+| **Identifier** | Verification pending |
+| **URL** | Verification pending |
 | **Purpose** | Permanent researcher identifier connecting publications, datasets, software, affiliations |
-| **Status** | Active |
+| **Status** | Verification pending |
 
 ### GitHub
 
@@ -88,7 +90,7 @@ A long-term interdisciplinary research programme dedicated to strengthening just
 
 | Level | Details |
 |-------|----------|
-| **Current Training** | Élève Administrateur des Greffes — INFJ (2025–2027) |
+| **Current Training** | Administrateur des greffes et parquets en formation — INFJ (since February 2026) |
 | **Prior Role** | Head of Statistics Unit — Ministry of Justice and Human Rights (2018–2021) |
 | **Institution** | Ministry of Justice and Human Rights, Republic of Côte d'Ivoire |
 | **Research Level** | Pre-doctoral (preparing PhD applications in AI Governance / Data Governance) |
@@ -101,7 +103,7 @@ A long-term interdisciplinary research programme dedicated to strengthening just
 |---------|----------|
 | **Email** | contact@lioneldyla.github.io |
 | **GitHub** | [github.com/lioneldyla](https://github.com/lioneldyla) |
-| **ORCID** | [orcid.org/0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
+| **ORCID** | Verification pending |
 
 ---
 

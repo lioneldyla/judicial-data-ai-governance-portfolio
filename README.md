@@ -2,7 +2,7 @@
 
 > **Research Digital Infrastructure (RDI) — Data Governance for Intelligent Justice Systems**
 
-**ORCID:** verification pending; conflicting identifiers are recorded in [academic profile notes](docs/academic_profiles/PROFILES.md).
+**ORCID:** [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) — confirmed by the author on 8 November 2026.
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?logo=creative-commons)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://lioneldyla.github.io/judicial-data-ai-governance-portfolio/)
 [![Open Science](https://img.shields.io/badge/Open%20Science-FAIR-brightgreen)](https://www.go-fair.org/)
@@ -192,7 +192,7 @@ judicial-data-ai-governance-portfolio/
 | **Specialisation** | Judicial Data Governance · Digital Justice · Responsible AI |
 | **Institution** | Ministry of Justice and Human Rights, Republic of Côte d'Ivoire |
 | **Location** | Abidjan, Côte d'Ivoire |
-| **ORCID** | Verification pending |
+| **ORCID** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
 | **GitHub** | [@lioneldyla](https://github.com/lioneldyla) |
 | **LinkedIn** | [linkedin.com/in/dylaprod/](https://linkedin.com/in/dylaprod/) |
 
@@ -210,7 +210,7 @@ judicial-data-ai-governance-portfolio/
 
 | Platform | Profile |
 |----------|---------|
-| **ORCID** | Verification pending |
+| **ORCID** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
 | **Zenodo** | [zenodo.org/search?q=lioneldyla](https://zenodo.org/search?q=lioneldyla) (pending) |
 | **SSRN** | Pending |
 | **GitHub** | [github.com/lioneldyla](https://github.com/lioneldyla) |
@@ -228,6 +228,7 @@ judicial-data-ai-governance-portfolio/
   publisher    = {GitHub},
   journal      = {GitHub Repository},
   howpublished = {\url{https://github.com/lioneldyla/judicial-data-ai-governance-portfolio}},
+  orcid        = {0009-0007-3762-9792},
   version      = {2.0}
 }
 ```

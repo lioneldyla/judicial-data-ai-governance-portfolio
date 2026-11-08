@@ -61,7 +61,7 @@ To cite this framework:
 DJORO Yoboukoua Lionel Arnaud (2026). Judicial Data Governance Framework (JDGF) v1.0.
 Data Governance for Intelligent Justice Systems Research Programme.
 GitHub: https://github.com/lioneldyla/judicial-data-ai-governance-portfolio
-ORCID: https://orcid.org/0009-0007-3691-9953
+ORCID: https://orcid.org/0009-0007-3762-9792
 ```
 
 ---

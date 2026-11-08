@@ -8,7 +8,7 @@ description: Official Research Digital Infrastructure — Data Governance for In
 
 > **Research Digital Infrastructure (RDI) — Data Governance for Intelligent Justice Systems**
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3762--9792-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3762-9792)
+**ORCID:** verification pending.
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?logo=creative-commons)](https://creativecommons.org/licenses/by/4.0/)
 [![Open Science](https://img.shields.io/badge/Open%20Science-FAIR-brightgreen)](https://www.go-fair.org/)
 
@@ -40,7 +40,7 @@ The programme articulates around three interdependent pillars:
 
 | Reference | Title | Status |
 |-----------|-------|--------|
-| [WP01](../working_papers/WP01/) | *Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa* | In Publication |
+| [WP01](../working_papers/WP01/) | *Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa* | In preparation — draft source and metadata being reconciled |
 | WP02 | *AI Readiness Assessment Framework for African Justice Systems* | Planned |
 | WP03 | *Judicial Data Governance Framework (JDGF)* | Planned |
 | WP04 | *Responsible AI Governance for Judicial Institutions* | Planned |
@@ -68,7 +68,7 @@ This infrastructure embraces Open Science principles. Research dissemination fol
 
 | Platform | Link |
 |----------|------|
-| **ORCID** | [orcid.org/0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
+| **ORCID** | Verification pending |
 | **GitHub** | [github.com/lioneldyla](https://github.com/lioneldyla) |
 | **Zenodo** | Pending |
 | **SSRN** | Pending |

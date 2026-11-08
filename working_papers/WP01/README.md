@@ -28,6 +28,6 @@ Les fichiers et répertoires anciennement listés comme structure cible ne sont 
 ## Identifiants et diffusion
 
 - DOI : non vérifié / non attribué dans les sources examinées.
-- ORCID : vérification de l’identité du titulaire en attente ; voir les notes de profils académiques.
+- ORCID : [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792), confirmé par l’auteur le 8 novembre 2026.
 - Dépôt Zenodo, SSRN et soumission en revue : étapes envisagées, sans confirmation de réalisation.
 - Aucun résultat empirique achevé n’est revendiqué sur la base du brouillon.

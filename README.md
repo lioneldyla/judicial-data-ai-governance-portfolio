@@ -2,7 +2,7 @@
 
 > **Research Digital Infrastructure (RDI) — Data Governance for Intelligent Justice Systems**
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3762--9792-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3762-9792)
+**ORCID:** verification pending; conflicting identifiers are recorded in [academic profile notes](docs/academic_profiles/PROFILES.md).
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?logo=creative-commons)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://lioneldyla.github.io/judicial-data-ai-governance-portfolio/)
 [![Open Science](https://img.shields.io/badge/Open%20Science-FAIR-brightgreen)](https://www.go-fair.org/)
@@ -78,10 +78,12 @@ The research programme **Data Governance for Intelligent Justice Systems** artic
 
 | Ref | Title | Status | DOI |
 |-----|-------|--------|-----|
-| [WP01](working_papers/WP01/) | *Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa — Toward Human-Centered, Accountable and AI-Ready Judicial Institutions* | In Publication | Pending |
+| [WP01](working_papers/WP01/) | *Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa — Toward Human-Centered, Accountable and AI-Ready Judicial Institutions* | In preparation — manuscript and metadata being reconciled | Not assigned / unverified |
 | [WP02](working_papers/WP02/) | *AI Readiness Assessment Framework for African Justice Systems* | Planned — 2026 Q4 | Pending |
 | [WP03](working_papers/WP03/) | *Judicial Data Governance Framework (JDGF)* | Planned — 2027 | Pending |
 | [WP04](working_papers/WP04/) | *Responsible AI Governance for Judicial Institutions* | Planned — 2027 | Pending |
+
+WP01 is a work in preparation. The manuscript currently available in the separate `working-papers` repository is a v0.1 draft with incomplete sections and a different working title. No peer-reviewed publication or DOI is established by this repository. See [WP01 status and source](working_papers/WP01/).
 
 ### Journal Articles
 
@@ -101,11 +103,9 @@ The **JDGF** is the flagship methodological framework of the programme. It provi
 
 → [Full framework documentation](frameworks/JDGF/)
 
-### SPJEJ — Statistical Performance Index for Justice Efficiency
+### PJEJ — Protection judiciaire de l’enfance et de la jeunesse
 
-A composite index designed to measure judicial statistical performance across African court systems.
-
-→ Planned — 2026 Q4
+SPJEJ refers here to Services de protection judiciaire de l’enfance et de la jeunesse. It must not be expanded as a statistical performance index. The PJEJ Data & Pilotage application is a separate applied project, with workflows adapted to each category of service.
 
 ### CS GREFFE OS — Open Source Court Registry System
 
@@ -122,7 +122,7 @@ An open-source digital registry platform for African courts, designed for low-re
 | **CS GREFFE OS** | Open-source court registry system for African judiciaries | Planned |
 | **AI PhD Agent** | AI-assisted research agent for doctoral research automation | In design |
 | **JDGF Toolkit** | Data governance assessment toolkit for judicial institutions | Planned |
-| **SPJEJ Platform** | Statistical performance measurement platform for justice | Planned |
+| **PJEJ Data & Pilotage** | Applied protection-service monitoring project, distinct from this research portfolio | In development; institutional validation separate |
 
 ---
 
@@ -192,13 +192,13 @@ judicial-data-ai-governance-portfolio/
 | **Specialisation** | Judicial Data Governance · Digital Justice · Responsible AI |
 | **Institution** | Ministry of Justice and Human Rights, Republic of Côte d'Ivoire |
 | **Location** | Abidjan, Côte d'Ivoire |
-| **ORCID** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
+| **ORCID** | Verification pending |
 | **GitHub** | [@lioneldyla](https://github.com/lioneldyla) |
-| **LinkedIn** | [linkedin.com/in/lioneldyla](https://linkedin.com/in/lioneldyla) |
+| **LinkedIn** | [linkedin.com/in/dylaprod/](https://linkedin.com/in/dylaprod/) |
 
 ### Research Experience
 
-- **15+ years** in judicial administration (since 2011)
+- **12+ years** in judicial administration (career presented from 2013)
 - Former **Head of Statistics Unit**, Ministry of Justice and Human Rights (2018–2021)
 - Specialist in **judicial statistics**, diagnostics studies, and judicial data systems
 - Training in **Data Science** — Le Wagon
@@ -210,7 +210,7 @@ judicial-data-ai-governance-portfolio/
 
 | Platform | Profile |
 |----------|---------|
-| **ORCID** | [orcid.org/0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
+| **ORCID** | Verification pending |
 | **Zenodo** | [zenodo.org/search?q=lioneldyla](https://zenodo.org/search?q=lioneldyla) (pending) |
 | **SSRN** | Pending |
 | **GitHub** | [github.com/lioneldyla](https://github.com/lioneldyla) |
@@ -228,7 +228,6 @@ judicial-data-ai-governance-portfolio/
   publisher    = {GitHub},
   journal      = {GitHub Repository},
   howpublished = {\url{https://github.com/lioneldyla/judicial-data-ai-governance-portfolio}},
-  orcid        = {0009-0007-3762-9792},
   version      = {2.0}
 }
 ```
@@ -252,4 +251,4 @@ Contributions, corrections, and collaboration proposals are welcome. Please read
 ---
 
 *Research Digital Infrastructure (RDI) — Version 2.0 · Last updated: July 2026*
-*Data Governance for Intelligent Justice Systems — [DJORO Yoboukoua Lionel Arnaud](https://orcid.org/0009-0007-3762-9792)*
+*Data Governance for Intelligent Justice Systems — DJORO Yoboukoua Lionel Arnaud*

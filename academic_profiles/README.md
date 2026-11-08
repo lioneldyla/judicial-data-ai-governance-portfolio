@@ -28,7 +28,7 @@ A long-term interdisciplinary research programme dedicated to strengthening just
 
 ---
 
-ORCID ownership remains unverified because historical files contain conflicting identifiers. See [reconciliation notes](../docs/academic_profiles/PROFILES.md). No identifier should be reused for a deposit until verified.
+The author confirmed ORCID [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) on 8 November 2026. See [profile notes](../docs/academic_profiles/PROFILES.md).
 
 ## Research Profiles
 
@@ -36,10 +36,10 @@ ORCID ownership remains unverified because historical files contain conflicting 
 
 | Field | Details |
 |-------|----------|
-| **Identifier** | Verification pending |
-| **URL** | Verification pending |
+| **Identifier** | 0009-0007-3762-9792 |
+| **URL** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
 | **Purpose** | Permanent researcher identifier connecting publications, datasets, software, affiliations |
-| **Status** | Verification pending |
+| **Status** | Confirmed by the author — 2026-11-08 |
 
 ### GitHub
 
@@ -103,7 +103,7 @@ ORCID ownership remains unverified because historical files contain conflicting 
 |---------|----------|
 | **Email** | contact@lioneldyla.github.io |
 | **GitHub** | [github.com/lioneldyla](https://github.com/lioneldyla) |
-| **ORCID** | Verification pending |
+| **ORCID** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
 
 ---
 

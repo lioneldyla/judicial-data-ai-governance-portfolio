@@ -20,7 +20,7 @@ date-released: "2026-07-07"
 authors:
   - family-names: "DJORO Yoboukoua"
     given-names: "Lionel Arnaud"
-    orcid: "https://orcid.org/0009-0007-3762-9792"
+    # ORCID omitted pending ownership verification; see docs/academic_profiles/PROFILES.md.
     affiliation: "Institut National de Formation Judiciaire (INFJ), Ministry of Justice and Human Rights, Republic of Cote d'Ivoire"
     email: "contact@lioneldyla.github.io"
 

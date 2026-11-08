@@ -21,16 +21,20 @@
 
 | Platform | Identifier / URL | Status |
 |---|---|---|
-| **ORCID** | [0009-0007-3691-9953](https://orcid.org/0009-0007-3691-9953) | ✅ Active |
+| **ORCID** | Verification pending | Not confirmed |
 | **GitHub** | [lioneldyla](https://github.com/lioneldyla) | ✅ Active |
 | **Zenodo** | *Pending — deposit planned with first preprint* | ⏳ Pending |
 | **SSRN** | *Pending — account to be created* | ⏳ Pending |
 | **Google Scholar** | *Pending — profile created after first publication* | ⏳ Pending |
 | **ResearchGate** | *Pending* | ⏳ Pending |
 | **OpenAIRE** | *Linked via ORCID* | ⏳ Pending |
-| **LinkedIn** | [Profile](https://www.linkedin.com/in/lionel-djoro) | ✅ Active |
+| **LinkedIn** | [Profile](https://www.linkedin.com/in/dylaprod/) | ✅ Active |
 
 ---
+
+## Identifier reconciliation
+
+Two different ORCID identifiers appear in the historical documentation: `0009-0007-3762-9792` and `0009-0007-3691-9953`. Neither is asserted as the author's identifier until ownership is verified by the author or an authoritative matching profile. The repository's publication metadata temporarily omits ORCID to avoid propagating an unverified identity.
 
 ## Research Expertise
 

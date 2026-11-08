@@ -1,67 +1,33 @@
-# Working Paper WP01 — Judicial Data Governance in West Africa
+# WP01 — Document de travail en préparation
 
-> **Series:** Data Governance for Intelligent Justice Systems — Working Papers  
-> **Category:** Working Paper | **Identifier:** WP01 | **Version:** 1.0.0  
-> **Author:** DJORO Yoboukoua Lionel Arnaud | **ORCID:** [0009-0007-3691-9953](https://orcid.org/0009-0007-3691-9953)  
-> **Status:** In preparation | **Target Venue:** African Law & Society Review / SSRN preprint  
-> **Last Updated:** July 2026
+## Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa
+### Toward Human-Centered, Accountable and AI-Ready Judicial Institutions
 
----
+Auteur : DJORO Yoboukoua Lionel Arnaud
 
-## Abstract
+## Statut vérifié au 8 novembre 2026
 
-*Forthcoming.* This working paper examines the current state of judicial data governance in West African court systems, with a focus on Côte d'Ivoire, Senegal, and Benin. It identifies structural gaps in judicial data collection, management, and dissemination practices, and proposes a governance maturity model calibrated to the resource realities and legal traditions of ECOWAS-member judiciaries. The paper contributes to a nascent literature at the intersection of judicial administration reform and data governance in the Global South.
+Ce titre désigne le projet de document de travail présenté dans ce portefeuille. Il ne constitue pas la preuve d’une publication évaluée par les pairs, d’une acceptation en revue ou de l’attribution d’un DOI.
 
----
+Le manuscrit effectivement accessible est conservé dans le dépôt [working-papers](https://github.com/lioneldyla/working-papers/blob/main/working_papers/WP01/wp01.md). Il porte le titre de travail **Judicial Data Governance and Responsible Artificial Intelligence: An Analytical Framework for African Judicial Institutions**, la version **v0.1 — Draft**, datée de juin 2026. Plusieurs sections restent à compléter.
 
-## Research Questions
+Les mentions antérieures « In Publication », « version 1.0 » et les autres titres de WP01 ne décrivent donc pas un manuscrit final vérifié. La réconciliation du titre et de la version doit précéder toute citation d’une version définitive.
 
-1. What are the prevailing data governance practices in West African court administrations?
-2. What structural, legal, and institutional factors explain observed data governance gaps?
-3. How can a context-sensitive governance maturity model be operationalised for resource-constrained judiciaries?
+## Objet
 
----
+Étudier les liens entre gouvernance des données, capacités institutionnelles, transformation numérique et conditions d’un usage responsable de l’IA dans les systèmes judiciaires africains.
 
-## Methodology
+## Ressources disponibles
 
-- Comparative case study approach (Côte d'Ivoire, Senegal, Benin)
-- Document analysis of judicial statistics reports, legal frameworks, and institutional mandates
-- Semi-structured expert interviews with judicial administrators and IT officers
-- Synthesis against international standards (OECD, AU Data Policy Framework, FAIR principles)
+- [Manuscrit préliminaire](https://github.com/lioneldyla/working-papers/blob/main/working_papers/WP01/wp01.md)
+- [Résumé du brouillon](https://github.com/lioneldyla/working-papers/blob/main/working_papers/WP01/abstract.md)
+- [Références du brouillon](https://github.com/lioneldyla/working-papers/blob/main/working_papers/WP01/references.md)
 
----
+Les fichiers et répertoires anciennement listés comme structure cible ne sont pas présentés comme des livrables existants.
 
-## Document Index
+## Identifiants et diffusion
 
-| File | Description | Status |
-|---|---|---|
-| `WP01_DRAFT.md` | Working paper draft | *In preparation* |
-| `WP01_BIBLIOGRAPHY.md` | Annotated bibliography | *In preparation* |
-| `WP01_DATA_SOURCES.md` | Data sources and access log | *In preparation* |
-
----
-
-## Planned Dissemination
-
-- [ ] SSRN preprint deposit
-- [ ] Zenodo archiving with DOI
-- [ ] Conference presentation (TBD — 2027)
-- [ ] Peer-reviewed journal submission (target: 2027)
-
----
-
-## Citation (Pre-Publication)
-
-```
-DJORO Yoboukoua Lionel Arnaud (2026). [WP01 Title — forthcoming].
-Working Paper WP01, Data Governance for Intelligent Justice Systems Series.
-GitHub: https://github.com/lioneldyla/judicial-data-ai-governance-portfolio
-```
-
----
-
-## Related Resources
-
-- [JDGF Framework](../frameworks/JDGF/)
-- [Research Agenda](../../RESEARCH_AGENDA.md)
-- [Doctoral Research Plan](../../DOCTORAL_RESEARCH_PLAN.md)
+- DOI : non vérifié / non attribué dans les sources examinées.
+- ORCID : vérification de l’identité du titulaire en attente ; voir les notes de profils académiques.
+- Dépôt Zenodo, SSRN et soumission en revue : étapes envisagées, sans confirmation de réalisation.
+- Aucun résultat empirique achevé n’est revendiqué sur la base du brouillon.

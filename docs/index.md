@@ -8,7 +8,7 @@ description: Official Research Digital Infrastructure — Data Governance for In
 
 > **Research Digital Infrastructure (RDI) — Data Governance for Intelligent Justice Systems**
 
-**ORCID:** verification pending.
+**ORCID:** [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792).
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?logo=creative-commons)](https://creativecommons.org/licenses/by/4.0/)
 [![Open Science](https://img.shields.io/badge/Open%20Science-FAIR-brightgreen)](https://www.go-fair.org/)
 
@@ -68,7 +68,7 @@ This infrastructure embraces Open Science principles. Research dissemination fol
 
 | Platform | Link |
 |----------|------|
-| **ORCID** | Verification pending |
+| **ORCID** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) |
 | **GitHub** | [github.com/lioneldyla](https://github.com/lioneldyla) |
 | **Zenodo** | Pending |
 | **SSRN** | Pending |

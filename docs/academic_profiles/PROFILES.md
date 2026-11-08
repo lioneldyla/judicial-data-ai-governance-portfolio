@@ -21,7 +21,7 @@
 
 | Platform | Identifier / URL | Status |
 |---|---|---|
-| **ORCID** | Verification pending | Not confirmed |
+| **ORCID** | [0009-0007-3762-9792](https://orcid.org/0009-0007-3762-9792) | Confirmed by the author — 2026-11-08 |
 | **GitHub** | [lioneldyla](https://github.com/lioneldyla) | ✅ Active |
 | **Zenodo** | *Pending — deposit planned with first preprint* | ⏳ Pending |
 | **SSRN** | *Pending — account to be created* | ⏳ Pending |
@@ -34,7 +34,7 @@
 
 ## Identifier reconciliation
 
-Two different ORCID identifiers appear in the historical documentation: `0009-0007-3762-9792` and `0009-0007-3691-9953`. Neither is asserted as the author's identifier until ownership is verified by the author or an authoritative matching profile. The repository's publication metadata temporarily omits ORCID to avoid propagating an unverified identity.
+The author confirmed **0009-0007-3762-9792** (https://orcid.org/0009-0007-3762-9792) on 8 November 2026. This is the authoritative identifier for this portfolio and its citation metadata. Historical conflicting references are superseded.
 
 ## Research Expertise
 

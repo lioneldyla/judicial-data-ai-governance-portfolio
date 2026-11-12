@@ -9,6 +9,26 @@ Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Added — Ecosystem Audit (Phase 1–2 of GitHub Ecosystem Reorganization)
+
+- Added `governance/ecosystem-audit/` — ten-deliverable audit of the full
+  `lioneldyla` GitHub account (110 repositories) laying out the target
+  architecture for the Data Governance for Intelligent Justice Systems
+  ecosystem.
+  - `README.md` — index and headline numbers
+  - `01_REPOSITORY_INVENTORY.md` — full 110-repo inventory
+  - `02_CLASSIFICATION_MATRIX.md` — one-category-per-repo assignment
+  - `03_DEPENDENCY_MAP.md` — DAG of programme repositories
+  - `04_DUPLICATION_REPORT.md` — JDGF, CS GREFFE OS, working-papers, and profile duplications
+  - `05_MIGRATION_PLAN.md` — 7-phase reversible migration sequence
+  - `06_DOCUMENTATION_AUDIT.md` — per-repo doc gaps + AGENTS/PROJECT_STATUS/ARCHITECTURE templates
+  - `07_METADATA_AUDIT.md` — descriptions, topics, homepage, license, branch standards
+  - `08_NAMING_AUDIT.md` — kebab-case renames + branch-name violations
+  - `09_ARCHIVE_PLAN.md` — archival mechanisms + archival README template
+  - `10_ARCHITECTURE_BLUEPRINT.md` — final target topology + 7 open questions requiring user decision
+
+### Ongoing
+
 - WP01 full manuscript — in preparation
 - WP02 outline — in preparation
 - JDGF Framework documentation — in development
